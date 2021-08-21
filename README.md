@@ -31,7 +31,8 @@ $ git clone https://github.com/mendozaremi/React_MinimilistPort
 $ cd React_MinimilistPort
 
 # Install dependencies
-$ npm
+$ npm i
+```
 
 ## Deployment
 When you are done with the setup, you should host your website online.
