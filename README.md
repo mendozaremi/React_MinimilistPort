@@ -1,4 +1,4 @@
-## minimal and responsive portfolio template for Developers!
+## Minimal and responsive portfolio template for Developers!
 
 ## Features
 - Responsive
