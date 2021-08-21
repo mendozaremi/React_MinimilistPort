@@ -1,0 +1,59 @@
+// Header Styles
+.header-wrapper {
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    h2 {
+      font-size: 1rem;
+      text-align: center;
+      @media screen and (min-width: 320px) and (max-width: 424px) {
+        font-size: 14px;
+      }
+      @media screen and(min-width: 425px) and (max-width: 767px) {
+        font-size: 16px;
+      }
+      @media screen and(min-width: 768px) and (max-width: 1023px)  {
+        font-size: 16px;
+      }
+    }
+    .heading-wrapper {
+      h1 {
+        font-size: 4rem;
+        text-align: center;
+        line-height: 20px;
+        @media screen and (min-width: 320px) and (max-width: 424px) {
+          font-size: 1.5rem;
+          line-height: 10px;
+        }
+        @media screen and(min-width: 425px) and (max-width: 767px) {
+          font-size: 1.5rem;
+          line-height: 10px;
+        }
+        @media screen and(min-width: 768px) and (max-width: 1023px) {
+          font-size: 2.5rem;
+        }
+      }
+    }
+    p {
+        width: 50%;
+        text-align: center;
+        overflow: hidden;
+        @media screen and (min-width: 320px) and (max-width: 424px) {
+          font-size: 12px;
+          width: 100%;
+        }
+        @media screen and(min-width: 425px) and (max-width: 767px) {
+          font-size: 12px;
+          width: 100%;
+        }
+        @media screen and(min-width: 768px) and (max-width: 1023px) {
+          font-size: 14px;
+          width: 100%;
+        }
+      }
+      .primary-btn {
+         text-decoration: none;
+      }
+    }

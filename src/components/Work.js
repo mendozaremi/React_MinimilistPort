@@ -1,7 +1,6 @@
 import React from "react"
 import Card from "./Card"
 
-
 const data = {
   projects: [
     {
@@ -72,9 +71,8 @@ const Work = () => {
     <div className="section" id="work">
       <div className="container">
         <div className="work-wrapper">
-
+            <h1>Work</h1>
           <div className="grid">
-     
               {data.projects.map((project, index) => (
                 <Card
                   key={index}
