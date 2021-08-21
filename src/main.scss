@@ -3,17 +3,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans&display=swap");
 
 // Atoms
-@import "./card.scss";
+@import "./styles/card.scss";
 
 // Components
-@import "./navbar.scss";
-@import "./header.scss";
-@import "./work.scss";
-@import "./about.scss";
-// @import "./skills.scss";
-// @import "./promotion.scss";
-@import "./footer.scss";
-
+@import "./styles/navbar.scss";
+@import "./styles/header.scss";
+@import "./styles/work.scss";
+@import "./styles/about.scss";
+@import "./styles/skills.scss";
+@import "./styles/about.scss";
+@import "./styles/footer.scss";
 * {
   font-family: "Montserrat";
 }

@@ -9,7 +9,7 @@ const data = {
         "Movie search app using TMBD's API", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://pbs.twimg.com/profile_images/1243623122089041920/gVZIvphd_400x400.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/mendozaremi/React_MovieSearch",
     },
@@ -29,7 +29,7 @@ const data = {
         "FullStack Academy capstone team project", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://imgur.com/tqy0KtM&auto=format&fit=crop&w=400&q=60",
+        "https://i.imgur.com/foYrvpx.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Aplier/Aplier",
     },
@@ -39,7 +39,7 @@ const data = {
         "Material UI Photograghy portfolio", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.imgur.com/7cfXRpU.png",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/mendozaremi/React_PhotoPort",
     },
@@ -49,17 +49,17 @@ const data = {
         "Breaking Bad casting app", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.imgur.com/9M4xkEK.png",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/mendozaremi/React_BreakingBad",
     },
     {
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "Kotlin Converter", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Converter app built on Kotlin. Convers temperature and currency", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/8a37LwY.png&auto=format&fit=crop&w=400&q=60",
+        "https://i.imgur.com/ilJeeWA.png",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/mendozaremi/Kotlin_ConverterApp",
     },

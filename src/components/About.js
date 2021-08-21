@@ -10,7 +10,7 @@ const About = () => {
       aboutParaThree:
         "I am now proud to call myself a software engineer, I look forward to working with a great company and team",
       aboutImage:
-        "https://i.imgur.com/M3v0Epe.png",
+        "https://i.imgur.com/6igEXS1.png",
     };
 
   return (

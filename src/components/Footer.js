@@ -26,6 +26,7 @@ const Footer = () => {
             url: "https://www.instagram.com/remi.banks",
             },
        ],
+       contactEmail: "Mendozaremi@gmail.com",
     } 
     
 
