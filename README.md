@@ -1,4 +1,6 @@
-## Minimal and responsive portfolio template for Developers!
+# Minimal and responsive portfolio template for Developers!
+
+## Deployed @ --> https://mendozaremi.github.io/React_MinimilistPort/
 
 ## Features
 - Responsive
